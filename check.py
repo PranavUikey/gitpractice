@@ -1,1 +1,1 @@
-print('Just Checking. 1234 Hello World')
+print('Hello World.')
