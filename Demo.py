@@ -1,2 +1,3 @@
-print('Hello World')
+string = 'Hello World'
+print(string)
 print('I love Python.')
